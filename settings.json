@@ -7,13 +7,13 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "theme": "VSCode Dark Polished",
-  "icon_theme": "Colored Zed Icons Theme Dark",
+  "theme": "Catppuccin Mocha",
+  "icon_theme": "Catppuccin Mocha",
   "base_keymap": "VSCode",
   "features": {
     "edit_prediction_provider": "none"
   },
-  "buffer_font_family": "Menlo",
+  "buffer_font_family": "Monaco",
   "ui_font_family": ".SystemUIFont",
   "show_whitespaces": "none",
   "title_bar": {
